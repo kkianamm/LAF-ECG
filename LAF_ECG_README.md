@@ -15,15 +15,6 @@ LAF-ECG is an ECG classification framework that augments the **MedTsLLM** reprog
 
 ---
 
-## Architecture
-
-<p align="center">
-  <img src="assets/laf_ecg_architecture.png" alt="LAF-ECG architecture" width="100%">
-</p>
-
-<p align="center"><em>LAF-ECG architecture. Frozen pretrained backbones are adapted through lightweight ECG-specific modules.</em></p>
-
-Editable source: [`assets/laf_ecg_architecture.drawio`](assets/laf_ecg_architecture.drawio)
 
 ### Proposed components
 
