@@ -163,20 +163,3 @@ If you use this repository, please cite the LAF-ECG paper and the underlying MOM
   year      = {2026}
 }
 ```
-
----
-
-## Acknowledgements
-
-LAF-ECG builds on the ideas and open-source implementations of **MedTsLLM** and **MOMENT**. Please cite the original works when using those components.
-
----
-
-## Notes for the public release
-
-Before publishing the repository alongside the paper, verify that:
-
-- the public config uses the same final test-evaluation protocol described in the paper;
-- the exact Chapman-Shaoxing loader/config used in the manuscript is included if those results are reported;
-- the README hyperparameters match the final released config;
-- pretrained model IDs and dependency versions are pinned for reproducibility.
